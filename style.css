@@ -7,6 +7,7 @@
    font-weight: 300;
     font-style: normal;
     color: #803f98;
+    margin:80px;
 }
 #BRspace{
   background-color: #0080806c;
@@ -355,7 +356,7 @@ h3 .fade-in-bottom{
 }
 
 .plantContent{
-  background-color: rgba(0, 0, 0, 0.356);
+  background-color: rgba(0, 0, 0, 0.623);
   color: #ffffff;
   width: 100%;
   height: auto;
@@ -414,7 +415,7 @@ margin:10px
 
 
 .bloodContent{
-  background-color: rgba(0, 0, 0, 0.356);
+  background-color: rgba(0, 0, 0, 0.623);
   background-size: cover;
   color: #ffffff;
   width: 100%;
