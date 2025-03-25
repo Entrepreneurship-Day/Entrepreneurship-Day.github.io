@@ -305,7 +305,20 @@ h3 .fade-in-bottom{
   word-break:keep-all; 
   white-space: nowrap;
 }
-
+.prices{
+  border: #008080 6px solid;
+  border-radius: 15%;
+  background: rgba(255, 255, 255, 0.591); 
+  text-align: center;
+  margin: auto;
+ min-width: 3vw;
+ max-width: fit-content;
+ color: #803f98;
+}
+.prices:hover{
+  border: #803f98 6px solid;
+  transition: 1s;
+}
 .aboutDay{
   font-size: x-large;
   margin-left: 80px;
