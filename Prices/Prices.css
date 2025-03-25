@@ -1,3 +1,20 @@
+.headcenter{
+  text-align: center;
+}
+
+.nodeco{
+  text-decoration: none;
+}
+
+.img-size{
+  height: 250px;
+}
+
+.linkdeco{
+  color: #803f98;
+  text-decoration: underline;
+  text-align: center;
+}
 
 footer{
 border-top:#008080 solid 2px;
@@ -99,7 +116,6 @@ border-bottom-right-radius: 10px;
 }
 
 .card-body{
-  text-align: center;
   user-select: none;
 }
 
@@ -432,4 +448,3 @@ h3 .fade-in-bottom{
   font-size: 15px;
   margin: 0.5em 0 0 0;
 }
-
