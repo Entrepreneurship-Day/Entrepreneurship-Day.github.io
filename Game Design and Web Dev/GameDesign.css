@@ -384,15 +384,15 @@ h3 .fade-in-bottom{
 .BD {
   background-color: rgb(200, 146, 244);
   border-radius: 20px;
-  width: 80%;
-  margin-left: 10%;
+  width: 50%;
+  margin-left: 25%;
 }
 
 .BDI {
   margin-top: 20px;
   display: block;
   flex: 50%;
-  width: 200px;
+  width: 100px;
   padding: 10px;
   border-radius: 20px;
 }
